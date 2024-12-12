@@ -1,0 +1,40 @@
+{
+  "games": [
+    {
+      "title": "GTA 5",
+      "price": 3000,
+      "imgSrc": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/13/38/gaming-gta5-art2.jpg?resize=980:*",
+      "likes": 0
+    },
+    {
+      "title": "SAN ANDREAS",
+      "price": 2000,
+      "imgSrc": "https://cdn1.epicgames.com/offer/3262906d93334603b399e106492b1217/EGS_GrandTheftAutoSanAndreasTheDefinitiveEdition_RockstarGames_S2_1200x1600-31b942afca6472306be8ae9dfa73290e",
+      "likes": 0
+    },
+    {
+      "title": "VICE CITY",
+      "price": 1000,
+      "imgSrc": "https://t4.ftcdn.net/jpg/05/66/86/31/360_F_566863133_LFeVxWtCbMbsUNL92GzhP3t9y7hTSnJO.jpg",
+      "likes": 0
+    },
+    {
+      "title": "GTA 6",
+      "price": 10000,
+      "imgSrc": "https://www.shutterstock.com/image-illustration/introducing-game-that-has-been-260nw-2397428743.jpg",
+      "likes": 0
+    },
+    {
+      "title": "NEED FOR SPEED MOST WANTED",
+      "price": 12000,
+      "imgSrc": "https://mods.store.gx.me/mod/a8903921-a7f6-4b7a-ae63-771bf779e855/cover/242dd251-a963-4ea8-adb9-ae9b4ecb224c/webp-1280x720?d87fa3494354aef6d1dd9323d5207128",
+      "likes": 0
+    },
+    {
+      "title": "FC 24",
+      "price": 15000,
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAb9vbdB_CIb0H-_ExrLO5nv1dwi6cwVzKtA&s",
+      "likes": 0
+    }
+  ]
+}

@@ -103,15 +103,17 @@ function Card() {
       </form>
 
       <div className="cards">
-        {filteredGames.map((game) => (
-          <div className="card" key={game.id}>
+        {games.map((game) => (
+          <div className="card">
             <img
               className="img-card"
               src={game.imgSrc}
               alt={`${game.title} cover`}
             />
-            <h2>{game.title}</h2>
-            <p>Price: {game.price}</p>
+        
+              key={game.id}
+            <h2> {game.title}</h2>
+            <p> {game.price}</p>
             <p>Likes: {game.likes}</p>
             <div className="btns">
               <button className="btn" onClick={() => handleClick(game.id)}>
@@ -122,7 +124,7 @@ function Card() {
               </button>
             </div>
           </div>
-        ))}
+          ))}
       </div>
 
       {/* Cart Display */}
